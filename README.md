@@ -15,3 +15,10 @@ if else statement
     password checker
     
     password triangle
+
+nested if statement
+
+atm machine 
+
+leap year
+loan process nested if 
