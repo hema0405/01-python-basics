@@ -47,5 +47,14 @@ PROGRAM
     RETURN FUNCTION
 
     fstring call the return
+
+
+    FOR LOOP
+
+
+    find the odd or even
+    empty odd or even
+    nested if for loop
+    
     
 
