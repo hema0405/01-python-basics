@@ -55,6 +55,14 @@ PROGRAM
     find the odd or even
     empty odd or even
     nested if for loop
+
+
+    WHILE LOOP
+
+
+    break
+    continue
+    number guessing own try
     
     
 
