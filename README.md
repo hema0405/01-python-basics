@@ -22,3 +22,15 @@ atm machine
 
 leap year
 loan process nested if 
+PROGRAM
+
+    assignment1
+    print statement
+    for statement
+    factorial
+    sort
+    assending order
+    concatenate
+    basic operator
+    
+
