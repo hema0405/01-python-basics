@@ -63,6 +63,18 @@ PROGRAM
     break
     continue
     number guessing own try
+
+    PROGRAM1
+
+    ASSIGNMENT 2 
+
+    ARMSTRONG
+    CELSIUS AND FAHRENHEIT
+    DIAMOND PATTERN
+    TRAINGLE PATTERN
+    FIBONACCI SERIES
+    FACTORIAL
+    REVERSE STRING ..
     
     
 
